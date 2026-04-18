@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ccffa949-d0a6-4b9e-a1e8-db3b06e2ecfd" alt="GameDrop Logo" width="400">
+  <img src="https://github.com/user-attachments/assets/ccffa949-d0a6-4b9e-a1e8-db3b06e2ecfd" alt="GameDrop Logo" width="1000">
 </p>
 
 # GameDrop: A Comprehensive E-Commerce System for Video Games
